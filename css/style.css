@@ -8,3 +8,21 @@ header{
     width: 200px;
     height: 100px;
 }
+
+#Titolo{
+    font-size: 50px;
+}
+
+#sottotitolo{
+    font-size: 20px;
+    color: rgb(129, 126, 126);
+}
+
+#link-logo{
+    color: lightseagreen;
+}
+
+.Descrizione-prime-immagini{
+    margin: 0px;
+    font-size: 12px;
+}
