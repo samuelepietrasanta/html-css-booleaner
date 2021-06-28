@@ -27,6 +27,40 @@ header{
     font-size: 12px;
 }
 
-#parte-evidenziata{
+.parte-evidenziata{
     background-color: yellow;
+}
+
+thead{
+    background-color: rgb(61, 146, 199);
+}
+
+.riga-dispari{
+    background-color: rgb(168, 212, 240);
+
+}
+
+.riga-pari{
+    background-color: lightyellow;
+}
+
+#Titolo-footer{
+    font-size: 20px;
+    color:rgb(129, 126, 126) ;
+}
+
+#prima-immagine-footer{
+    padding: 10px;
+    color: rgb(218, 219, 219);
+    height: 150px;
+    width: 200px;
+    background-image: url(../img/graph.jpg);
+}
+
+#seconda-immagine-footer{
+    padding: 10px;
+    color:rgb(218, 219, 219) ;
+    height: 150px;
+    width: 200px;
+    background-image: url(../img/monitor.jpg);
 }
