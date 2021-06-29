@@ -32,6 +32,12 @@ header{
     background-color: yellow;
 }
 
+table{
+    border-collapse: collapse;
+    /* uno vale l'altro */
+    /* border-spacing: 0; */
+}
+
 thead{
     background-color: rgb(61, 146, 199);
 }
